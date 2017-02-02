@@ -43,3 +43,5 @@ out/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+# Ignore Spring files.
+/spring/*.pid
